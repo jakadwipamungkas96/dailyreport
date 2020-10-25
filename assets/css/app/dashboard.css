@@ -1,0 +1,70 @@
+.card-nindya {
+	border-top: 3px solid #006633 !important;
+}
+
+.card-header-nindya {
+	background: #E65925;
+}
+
+.card-body-nindya {
+	background: #ffffff;
+}
+
+.text-nindya {
+	color: #ffffff;
+	font-weight: bold;
+	font-size: 12px;
+}
+
+.card-header {
+    padding-top: 5px !important;
+    padding-right: 5px !important;
+    padding-bottom: 5px !important;
+    padding-left: 5px !important;
+}
+
+p {
+    margin-top: 0 !important;
+    margin-bottom: 0px !important;
+}
+
+#chartdiv {
+	width: 100%;
+	height: 350px;
+	font-size: 12px;
+}
+
+.badge-information{
+	background: #E65925;
+	color: #ffffff;
+	font-size: 12px;
+}
+
+.card-header-information {
+	background: #009EA9;
+	color: #ffffff;
+}
+
+.form-control {
+	border-radius: 5px;
+	font-size: 12px !important;
+}
+
+table th, .table td {
+    padding: 6px;
+    vertical-align: top;
+    border-top: 1px solid #eceeef;
+    font-size: 12px;
+}
+
+.thead-blank {
+    background: linear-gradient(to right, #98B3A6  0%, #fff 100%) !important;
+    border:0 !important;
+}
+
+.thead-report {
+	background: #006633; 
+	color: #ffffff !important;
+    border:0 !important;
+    text-align: center;
+}

@@ -1,0 +1,72 @@
+.body {
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif !important;
+}
+.navbar{
+	padding-top: 0px !important;
+    padding-right: 5px !important;
+    padding-bottom: 0px !important;
+    padding-left: 5px !important;
+}
+
+.bg-login,
+.bg-login:after { 
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    top: 0px;
+    left: 0px;
+	z-index: -10000; 
+	background-image: url("../../assets/img/bg-login.jpeg");
+    background-repeat: no-repeat;
+    height: 100vh;
+    background-size: cover;
+}
+
+.bg-login:after { 
+    content: '';
+	/* background: linear-gradient(rgba(76,175,80, 0.8), rgba(0,0,0, 0.8)); */
+	/* background: linear-gradient(rgb(230 89 37 / 0.7), rgba(0,0,0, 0.8)); */
+	background: linear-gradient(rgb(0 102 51 / 0.4), rgba(0,0,0, 0.8));
+}
+
+.img-nindya{
+	padding: 10px;
+	width: 40%;
+}
+
+.img-nindya-dashboard{
+	padding: 10px;
+	width: 25%;
+}
+
+.text-nindya {
+	color: #005F3B;
+}
+
+.subtext-nindya {
+	color: #E65925;
+}
+
+.header-login {
+	background: transparent;
+}
+
+/* Dashboard */
+.nav-nindya {
+	background: #E65925;
+}
+
+.navbar-outline-header{
+	border-bottom: 3px solid #006633 !important;
+}
+
+.bg-nindya {
+	background: #005F3B;
+}
+
+.main-footer {
+    background: #fff;
+    padding: 15px;
+    color: #444;
+	border-top: 1px solid #d2d6de;
+}
